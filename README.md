@@ -1,6 +1,8 @@
 # Grafana container for ppc64le
 
-This is a container build of [Grafana](https://grafana.com/) for **ppc64le** systems.
+This was a container build of [Grafana](https://grafana.com/) for **ppc64le** systems.
+
+**It is no longer maintained**.
 
 These builds use the source code from <https://github.com/grafana/grafana>.
 
@@ -33,6 +35,6 @@ The modified file is available in `Dockerfile-v7.0.5-ppc64le`.
 
 ## Docker Hub Images
 
-Built images are available at <https://hub.docker.com/repository/docker/cliffordw/grafana>
+Built images are no longer available.
 
 For usage instructions, see <https://grafana.com/docs/grafana/latest/installation/docker/>.
